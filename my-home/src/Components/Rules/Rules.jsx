@@ -1,11 +1,11 @@
 import React from "react";
 
-const Header = () => {
+const Rules = () => {
   return (
     <div>
-      <h1>Header</h1>
+      <h1>Rules</h1>
     </div>
   );
 };
 
-export default Header;
+export default Rules;
